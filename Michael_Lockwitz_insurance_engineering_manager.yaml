@@ -1,0 +1,170 @@
+cv:
+  name: Michael Lockwitz
+  email: mlockwitz@gmail.com
+  phone: tel:+1-720-663-1328
+
+  website: https://lockdev.com/
+  social_networks:
+    - network: LinkedIn
+      username: mlockwitz
+    - network: GitHub
+      username: MikeLockz
+  sections: 
+    "Seasoned engineering leader":
+      - 'I have a proven track record of delivering value-driven solutions that address complex challenges driving significant technical and business outcomes.'
+    experience:
+      - company: Engineering Leadership
+        position: DispatchHealth
+        location: Remote
+        start_date: 2023-08
+        end_date: present
+        highlights:
+          - Led a diverse team of managers and engineers across product, platform, and support functions, emphasizing a culture of collaboration and innovation to deliver on product strategy goals and process improvements.
+          - Expanded the engineering team to over 50 remote professionals worldwide, enhancing our capability to deliver strategic initiatives and improve operational efficiency.
+          - Mentored engineers, fostering a culture of technical excellence and career development, resulting in the promotion of key team members to senior and staff roles.
+          - Negotiated and managed pivotal vendor and service partnerships, optimizing operational efficiency and reducing annual OpEx spend by 15%.
+          - Spearheaded the creation and implementation of a robust incident management framework and product support function.
+          - Directed efforts to ensure HIPAA compliance across engineering practices, securing HITRUST certification, and fostering trust with major healthcare insurers.
+          - Launched and managed a comprehensive security program, addressing critical vulnerabilities and enhancing the security posture significantly through integration of SAST, DAST, and SCA tools.
+      - company: 'Engineering Manager: Logistics'
+        position: DispatchHealth
+        start_date: 2022-02
+        end_date: present
+        highlights:
+          - Delivered patented core business value generating logistics system to optimize the matching of supply and demand based on health critical constraints and provider efficiency replacing manual optimizer department of 30+ and allowing business to scale across more markets.
+          - Managed a distributed team of 20+ cross-functional multidisciplinary ICs responsible for delivering real-time schedule optimizer for at-home healthcare in 50+ cities in 25+ states replacing 20 manual optimizers.
+        location: Remote
+      - company: 'Engineering Manager: Clinical Risk Stratification'
+        position: DispatchHealth
+        start_date: 2023-08
+        end_date: 2023-11
+        highlights:
+          - Partnered with clinical leadership to increase patient acceptance rate by 10% with no decrease in patient safety by incorporating Python ML models to assess risk and right-size care delivery.
+          - Lowered patient intake handle time by 90 seconds by switching to a symptom collection methodology which resulted in more discrete data points with less training.
+        location: Remote
+      - company: 'Engineering Manager: Partners'
+        position: DispatchHealth
+        start_date: 2021-10
+        end_date: 2023-02
+        highlights:
+          - Created new top of funnel customer growth channel to represent over 10% of total business volume in less than 2 years.
+          - Expanded team from 4 to 12 engineers with mix of FTE, near shore and off shore talent which grew to support over 2000 new partners.
+          - Created FHIR compatible EHR integration solution enabling requests from strategic partners EHRs to minimize onboarding friction.
+          - Led team through rewrite of population health processing system which attributed over \$125M in medical cost savings for partners.
+        location: Remote
+      - company: 'Team Lead: Partners'
+        position: DispatchHealth
+        start_date: 2021-05
+        end_date: 2021-10
+        highlights:
+          - Delivered customer-facing full stack React SPA written in Typescript with Rails API partner portal for requesting and managing the lifecycle of care delivery including all digital touch points from onboarding through support.
+          - Lead team from feature discovery through delivery with project management processes.
+        location: Remote
+      - company: Senior Front End Engineer
+        position: DispatchHealth
+        start_date: 2020-05
+        end_date: 2021-05
+        highlights:
+          - Completed and launched off-shored SaaS product for external partners to create and manage the lifecycle for requests for health services in the home.
+        location: Remote
+      - company: Consultant
+        position: LockDev Ltd.
+        start_date: 2012-03
+        end_date: present
+        highlights:
+          - Provide technical solutions for small and medium size businesses by analyzing, planning, developing and implementing solutions on time, within budget, that function as promised and with the quality you'd expect from 20 years of experience.
+        location: Remote
+      - company: Senior Front End Engineer
+        position: ConsenSys
+        start_date: 2019-01
+        end_date: 2020-04
+        highlights:
+          - Developed and maintained open source React library with 2k+ monthly downloads.
+          - Wrote and maintained technical documentation site with 4k+ monthly visits.
+          - Built web3 React components and demos for user experience research.
+        location: Remote
+      - company: Front End Architect
+        position: Flourish Systems, LLC
+        start_date: 2016-11
+        end_date: 2020-01
+        highlights:
+          - Developed and maintained AngularJS app for admin and end-users to configure, monitor, and control scaled commercial agriculture hardware product.
+          - Integrated Rails API via websockets with CI/CD via GitHub and Heroku.
+          - Built interactive UI framework of over 20 styled components and directives.
+        location: Denver, CO
+      - company: Technical Project Manager
+        position: Influence Technologies
+        start_date: 2016-06
+        end_date: 2018-10
+        highlights:
+          - Lead process improvements, internal teams, and client interaction from requirements gathering to design, development to maintenance of multi-year projects.
+          - Released open source js library (ivx.js) with team of developers and designers to reduce implementation time of interactive video marketing products.
+          - Managed internal teams to ensure accurate and timely delivery of features.
+        location: Denver, CO
+      - company: Senior Web Developer
+        position: Influence Technologies
+        start_date: 2012-10
+        end_date: 2016-06
+        highlights:
+          - Delivered high conversion web apps for Fortune 200 companies with 1+ million annual visits.
+          - Built internal and external AngularJS dashboards connected to .NET backend.
+          - Developed 30+ interactive video experiences optimized for lead conversion.
+        location: Denver, CO
+      - company: Web Developer
+        position: Craft Boom Inc
+        start_date: 2012-08
+        end_date: 2015-07
+        highlights:
+          - Developed multi-platform mobile app for tourism industry focused on discovery and cross-vertical promotion in the craft consumables space.
+        location: Denver, CO
+      - company: Founder and Evangelist
+        position: OpenBike
+        start_date: 2012-06
+        end_date: 2014-10
+        highlights:
+          - Encourage bicycling as a viable commuter strategy by providing useful route information to cyclists.
+          - Public civic advocacy for additional bike infrastructure.
+        location: Denver, CO
+    community_and_speaking:
+      - name: DevCon Osaka (2020)
+        details: State of the dApp - The state of web3 user interactions.
+      - name: Refresh Denver (2014 – 2020)
+        details: Grew local technology and design-focused meetup from 400 to over 4,000 members as an organizer and speaker.
+      - name: Coder Dojo (2014 - 2019)
+        details: Teach youth basic web development using international curriculum.
+    education:
+      - institution: Purdue University, West Lafayette
+        area: Computer and Information Technology
+        degree: BS
+design:
+  theme: classic
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_page_numbering: true
+  show_last_updated_date: false
+  header_font_size: 30 pt
+  text_alignment: justified
+  margins:
+    page:
+      top: 1.25 cm
+      bottom: 1.25 cm
+      left: 1.25 cm
+      right: 1.25 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience

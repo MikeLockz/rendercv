@@ -43,7 +43,7 @@
           "type": "string"
         },
         "disable_page_numbering": {
-          "default": false,
+          "default": true,
           "description": "If this option is set to true, then the page numbering will be disabled. The default value is false.",
           "title": "Disable Page Numbering",
           "type": "boolean"
@@ -55,7 +55,7 @@
           "type": "string"
         },
         "show_last_updated_date": {
-          "default": true,
+          "default": false,
           "description": "If this option is set to true, then the last updated date will be shown in the header. The default value is true.",
           "title": "Show Last Updated Date",
           "type": "boolean"
@@ -912,28 +912,28 @@
       "description": "This class is a data model for the page margins.",
       "properties": {
         "top": {
-          "default": "2 cm",
+          "default": "0 cm",
           "description": "The top margin of the page with units. The default value is 2 cm.",
           "pattern": "\\d+\\.?\\d* *(cm|in|pt|mm|ex|em)",
           "title": "Top Margin",
           "type": "string"
         },
         "bottom": {
-          "default": "2 cm",
+          "default": "0 cm",
           "description": "The bottom margin of the page with units. The default value is 2 cm.",
           "pattern": "\\d+\\.?\\d* *(cm|in|pt|mm|ex|em)",
           "title": "Bottom Margin",
           "type": "string"
         },
         "left": {
-          "default": "2 cm",
+          "default": "0 cm",
           "description": "The left margin of the page with units. The default value is 2 cm.",
           "pattern": "\\d+\\.?\\d* *(cm|in|pt|mm|ex|em)",
           "title": "Left Margin",
           "type": "string"
         },
         "right": {
-          "default": "2 cm",
+          "default": "0 cm",
           "description": "The right margin of the page with units. The default value is 2 cm.",
           "pattern": "\\d+\\.?\\d* *(cm|in|pt|mm|ex|em)",
           "title": "Right Margin",
@@ -1093,10 +1093,10 @@
           ],
           "default": {
             "page": {
-              "bottom": "2 cm",
-              "left": "2 cm",
-              "right": "2 cm",
-              "top": "2 cm"
+              "bottom": "0 cm",
+              "left": "0 cm",
+              "right": "0 cm",
+              "top": "0 cm"
             },
             "section_title": {
               "bottom": "0.2 cm",

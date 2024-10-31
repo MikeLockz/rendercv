@@ -1,0 +1,153 @@
+cv:
+  name: Michael Lockwitz
+  email: mlockwitz@gmail.com
+  phone: tel:+1-720-336-3337
+  website: https://lockdev.com/
+  social_networks:
+    - network: LinkedIn
+      username: mlockwitz
+    - network: GitHub
+      username: MikeLockz
+  sections:
+    "Strategic engineering leader":
+      - 'Extensive experience in spearheading technological innovations and operational efficiencies in high-growth environments. Expertise in leading distributed, multidisciplinary teams to deliver cutting-edge software solutions and support services. With a strong foundation in computer and information technology, I excel in aligning technology strategies with business goals, fostering a culture of excellence and innovation, and driving projects to successful completion. Committed to enhancing team capabilities, optimizing processes, and ensuring the security and scalability of IT infrastructures.'
+    experience:
+      - start_date: 2023-08
+        end_date: present
+        highlights:
+          - Lead multi-team technical roadmaps and executed strategic initiatives to enhance operational efficiency and innovation across product, platform, and support functions in a remote, global engineering organization.
+          - Scaled the software engineering team to over 50 members, ensuring effective mentorship, performance management, and development aligned with business objectives.
+          - Established and enforced IT standards and policies globally, ensuring uniform technology implementation in compliance with complex HIPPA certification.
+          - Partnered with cybersecurity teams to fortify the security posture of IT systems, ensuring robust governance and scalability.
+          - Managed key vendor relationships and negotiations, optimizing IT service procurement to support business growth.
+          - Directed CAPEX and OPEX budget planning for IT, aligning with the strategic goals and annual operating plan.
+        location: Remote
+        company: Engineering Leadership
+        position: DispatchHealth
+      - start_date: 2022-02
+        end_date: 2023-04
+        highlights:
+          - Delivered a patented logistics optimization system, demonstrating exceptional project management skills, leading a large cross-functional team, and leading a remote team across diverse geographies.
+          - Lowered patient intake costs by delivering multiple ML models to assess patient acuity, eligible modalities, visit length without negative impacts to patient outcomes.
+        location: Remote
+        company: 'Engineering Manager: Logistics'
+        position: DispatchHealth
+      - start_date: 2021-10
+        end_date: 2023-02
+        highlights:
+          - Led the delivery and operations of an external facing partner portal representing 10% of company volume in less than 2 years, highlighting skills in technology selection, process optimization, and team expansion to support strategic partnerships and drive business growth.
+        location: Remote
+        company: 'Engineering Manager: Partners'
+        position: DispatchHealth
+      - start_date: 2020-05
+        end_date: 2021-05
+        highlights:
+          - Demonstrated strong technical leadership in developing customer-facing digital products, reinforcing skills in managing complex projects and fostering collaboration across functional teams.
+        location: Remote
+        company: Senior Front End Engineer
+        position: DispatchHealth
+      - start_date: 2012-03
+        end_date: present
+        highlights:
+          - Provided technical consultancy services, exemplifying an ability to lead organizational change through technical solutions, process improvements, and strategic planning.
+        location: Remote
+        company: Consultant
+        position: LockDev Ltd.
+      - start_date: 2016-11
+        end_date: 2020-01
+        highlights:
+          - Engineered and maintained a comprehensive AngularJS application, showcasing expertise in critical infrastructure management, including server-based computing and virtualization technologies.
+        location: Denver, CO
+        company: Front End Architect
+        position: Flourish Systems, LLC
+      - start_date: 2016-06
+        end_date: 2018-10
+        highlights:
+          - Lead process, internal teams, and client interaction from requirements gathering to design, development to maintenance of multi-year projects.
+          - Released open source js library (ivx.js) with team of developers and designers to reduce implementation time of interactive video marketing products.
+        location: Denver, CO
+        company: Technical Project Manager
+        position: Influence Technologies
+      - start_date: 2012-10
+        end_date: 2016-06
+        highlights:
+          - Delivered high conversion web apps for Fortune 200 companies with 1+ million annual visits.
+          - Built interactive video experiences optimized for lead conversion controlled by AngularJS dashboards connected to .NET backend.
+        location: Denver, CO
+        company: Senior Web Developer
+        position: Influence Technologies
+      - start_date: 2012-08
+        end_date: 2015-07
+        highlights:
+          - Developed multi-platform mobile app for tourism industry focused on discovery and cross-vertical promotion in the craft consumables space.
+        location: Denver, CO
+        company: Web Developer
+        position: Craft Boom Inc
+      - start_date: 2012-06
+        end_date: 2014-10
+        highlights:
+          - Encourage bicycling as a viable commuter strategy by providing useful route information to cyclists.
+          - Public civic advocacy for additional bike infrastructure.
+          - Developed multiple bike safety prototypes for different platforms to encourage route sharing information.
+        location: Denver, CO
+        company: Founder and Evangelist
+        position: OpenBike
+      - start_date: 2011-02
+        end_date: 2012-06
+        highlights:
+          - Bespoke web development agency focused on small business solutions.
+        location: Denver, CO
+        company: Project Developer
+        position: Big Container Media
+    community_and_speaking:
+      - name: DevCon Osaka (2020)
+        details: Presented on State of the dApp - The state of web3 user interactions, reflecting exceptional communication skills and the ability to articulate complex technical concepts to diverse audiences.
+      - name: Refresh Denver (2014 – 2020)
+        details: Organized and spoke at a technology and design-focused meetup, growing its membership significantly, demonstrating leadership in community building and knowledge sharing.
+      - name: Coder Dojo (2014 - 2019)
+        details: Volunteered in teaching basic web development to youth, underscoring a commitment to mentorship and skill development in the next generation of IT professionals.
+    education:
+      - institution: Purdue University - West Lafayette
+        area: Computer and Information Technology
+        degree: BS
+    skills:
+      - Strategic IT Planning
+      - Team Leadership & Development
+      - Project Management & Execution
+      - IT Infrastructure & Security
+      - Service Delivery & ITSM
+      - Vendor Management & Negotiations
+      - Budget Planning
+design:
+  theme: classic
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  show_last_updated_date: false
+  header_font_size: 30 pt
+  text_alignment: justified
+  margins:
+    page:
+      top: 1.25 cm
+      bottom: 1.25 cm
+      left: 1.25 cm
+      right: 1.25 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience

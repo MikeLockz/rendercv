@@ -102,18 +102,18 @@ def format_date(date: Date) -> str:
     # Month abbreviations,
     # taken from: https://web.library.yale.edu/cataloging/months
     abbreviations_of_months = [
-        "Jan.",
-        "Feb.",
-        "Mar.",
-        "Apr.",
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
         "May",
         "June",
         "July",
-        "Aug.",
-        "Sept.",
-        "Oct.",
-        "Nov.",
-        "Dec.",
+        "Aug",
+        "Sept",
+        "Oct",
+        "Nov",
+        "Dec",
     ]
 
     month = int(date.strftime("%m"))

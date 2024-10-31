@@ -1,0 +1,133 @@
+cv:
+  name: Michael Lockwitz
+  email: mlockwitz@gmail.com
+  phone: tel:+1-720-336-3337
+  website: https://lockdev.com/
+  social_networks:
+    - network: LinkedIn
+      username: mlockwitz
+    - network: GitHub
+      username: MikeLockz
+  sections:
+    "Experienced engineering leader":
+      - 'I have extensive expertise in managing remote teams, cloud computing, and implementing scalable AI/ML workflows. Demonstrated success in building and leading diverse engineering teams to deliver complex technical projects, fostering a culture of technical excellence and continuous improvement. Passionate about developing processes and tools to enhance team performance and product quality.'
+    experience:
+      - start_date: 2023-08
+        end_date: present
+        highlights:
+          - Manager of managers and 20+ engineers across four teams spanning product, platform, and support functions, emphasizing remote team management and engineering culture development.
+          - Scaled engineering organization to 50+ remote engineers, focusing on technical excellence and career development.
+          - Led initiatives to enhance engineering on-call processes and manage HIPPA compliance, ensuring HITRUST certification.
+        location: Remote
+        company: Engineering Leadership
+        position: DispatchHealth
+      - start_date: 2023-11
+        end_date: present
+        highlights:
+          - Spearheaded cost optimization for AWS, reducing annual spend by 10% and aligning with cloud best practices.
+          - Delivered PCI compliant solutions, improving service collections by 5% with reduced operational overhead.
+        location: Remote
+        company: 'Engineering Manager: Platform'
+        position: DispatchHealth
+      - start_date: 2023-08
+        end_date: 2023-11
+        highlights:
+          - Integrated ML models to improve patient acceptance rates by 10%, showcasing experience in leveraging AI/ML for operational excellence without negative impact to patient safety.
+        location: Remote
+        company: 'Engineering Manager: Clinical Risk Stratification'
+        position: DispatchHealth
+      - start_date: 2022-02
+        end_date: 2023-04
+        highlights:
+          - Delivered a patented logistics system optimizing healthcare delivery, demonstrating project management and technical leadership.
+          - Oversaw design and delivery of provider credentialing system which lead to 4% reduction in uncollectable visits.
+        location: Remote
+        company: 'Engineering Manager: Logistics'
+        position: DispatchHealth
+      - start_date: 2021-10
+        end_date: 2023-02
+        highlights:
+          - Created FHIR compatible EHR integration, enhancing partner onboarding and contributing to over \$125M in medical cost savings.
+        location: Remote
+        company: 'Engineering Manager: Partners'
+        position: DispatchHealth
+      - start_date: 2021-05
+        end_date: 2021-10
+        highlights:
+          - Delivered customer-facing full stack React SPA with Rails API partner portal for requesting and managing the lifecycle of care delivery including all digital touch points from onboarding through support.
+        location: Remote
+        company: 'Team Lead: Partners'
+        position: DispatchHealth
+      - start_date: 2012-03
+        end_date: present
+        highlights:
+          - Provide bespoke technical solutions for small and medium size businesses by analyzing, planning, developing and implementing solutions on time, within budget, that function as promised and with the quality you'd expect from 20 years of experience.
+        location: Remote
+        company: Consultant
+        position: LockDev Ltd.
+      - start_date: 2019-01
+        end_date: 2020-04
+        highlights:
+          - Developed and maintained open source React library with 2k+ monthly downloads.
+          - Wrote and maintained technical documentation site with 4k+ monthly visits.
+          - Built web3 React components and demos for user experience research.
+        location: Remote
+        company: Senior Front End Engineer
+        position: ConsenSys
+      - start_date: 2016-11
+        end_date: 2020-01
+        highlights:
+          - Led the design and development of a scalable AngularJS application for managing commercial agriculture hardware, showcasing proficiency in frontend architecture and cloud-based systems.
+          - Implemented continuous integration and deployment pipelines using Rails API and websockets, significantly improving deployment efficiency and system reliability.
+          - Developed a comprehensive interactive UI library, enhancing user experience and system usability across multiple platforms.
+        location: Denver, CO
+        company: Front End Architect
+        position: Flourish Systems, LLC
+      - start_date: 2016-06
+        end_date: 2018-10
+        highlights:
+          - Directed end-to-end project lifecycle from concept to deployment, emphasizing collaboration with technical and design teams to create and release an open-source JavaScript library, improving development speed and product quality.
+          - Championed agile project management methodologies, leading to timely and successful feature releases and project delivery.
+        location: Denver, CO
+        company: Technical Project Manager
+        position: Influence Technologies
+      - start_date: 2012-10
+        end_date: 2016-06
+        highlights:
+          - Engineered high-traffic web applications for Fortune 200 companies, utilizing AngularJS and .NET, demonstrating advanced skills in developing scalable, high-availability web solutions.
+          - Spearheaded the development of interactive video experiences, resulting in significant improvements in user engagement and conversion rates.
+        location: Denver, CO
+        company: Senior Web Developer
+        position: Influence Technologies
+      - start_date: 2012-08
+        end_date: 2015-07
+        highlights:
+          - Developed an innovative multi-platform mobile application for the tourism industry, emphasizing discovery and engagement in the craft consumables space, showcasing the ability to deliver user-centered products.
+        location: Denver, CO
+        company: Web Developer
+        position: Craft Boom Inc
+      - start_date: 2012-06
+        end_date: 2014-10
+        highlights:
+          - Founded and led a civic tech initiative to promote cycling as a viable commuting option, developing software solutions that provided critical route information and safety prototypes, demonstrating leadership in community-oriented technology projects.
+        location: Denver, CO
+        company: Founder and Evangelist
+        position: OpenBike
+      - start_date: 2011-02
+        end_date: 2012-06
+        highlights:
+          - Managed the technical and operational aspects of a web development agency, delivering custom solutions for small businesses, and emphasizing client relationship management and project execution.
+        location: Denver, CO
+        company: Project Developer
+        position: Big Container Media
+    community_and_speaking:
+      - name: DevCon Osaka (2020)
+        details: State of the dApp - The state of web3 user interactions.
+      - name: Refresh Denver (2014 – 2020)
+        details: Grew local technology and design-focused meetup, highlighting community engagement and thought leadership.
+      - name: Coder Dojo (2014 - 2019)
+        details: Taught youth basic web development, emphasizing mentorship and technical education.
+    education:
+      - institution: Purdue University, West Lafayette
+        area: Computer and Information Technology
+        degree: BS

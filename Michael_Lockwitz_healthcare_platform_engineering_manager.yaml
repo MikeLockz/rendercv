@@ -1,0 +1,159 @@
+cv:
+  name: Michael Lockwitz
+  email: mlockwitz@gmail.com
+  phone: tel:+1-720-663-1328
+
+  website: https://lockdev.com/
+  social_networks:
+    - network: LinkedIn
+      username: mlockwitz
+    - network: GitHub
+      username: MikeLockz
+  sections:
+    "Seasoned engineering leader":
+      - 'I have a proven track record of delivering value-driven solutions that address complex challenges in healthcare driving significant technical and business outcomes. My leadership extends beyond technical expertise to fostering a culture of innovation, inclusivity, and high achievement, directly contributing to the reliability, availability, and performance of critical systems.'
+    experience:
+      - company: Engineering Leadership
+        position: DispatchHealth
+        location: Remote
+        start_date: 2023-08
+        end_date: present
+        highlights:
+          - Manager of managers and over 20 engineers across product, platform, and support functions fostering a collaborative engineering environment aligned with strategic healthcare goals.
+          - Strategically expanded the engineering organization to 50+ remote engineers across continents, from junior to senior levels, significantly enhancing our global operational capabilities and improving the product development lifecycle.
+          - Mentored and developed senior engineering talent, leading to the cultivation of a strong engineering culture and the promotion of three engineers to leadership roles.
+          - Managed critical vendor and service relationships for platform and product functions, achieving a 15% reduction in operational costs.
+          - Developed and implemented a comprehensive incident management process in collaboration with IT and Operations, reducing system outages by 50% over 6 months and ensuring 90% adherence to SLAs.
+          - Directed and streamlined HIPAA compliance efforts within engineering, achieving and maintaining HITRUST certification through audit processes enabling strategic relationships with largest healthcare insurers and systems in the US.
+      - company: 'Engineering Manager: Platform'
+        position: DispatchHealth
+        start_date: 2023-11
+        end_date: present
+        highlights:
+          - 'Led initiatives to improve observability and system health metrics, directly impacting service availability and user experience.'
+          - 'Implemented cutting-edge technologies and design patterns to modernize legacy systems, significantly improving system reliability and operational efficiency.'
+      - company: 'Engineering Manager: Product Support'
+        position: DispatchHealth
+        start_date: 2024-02
+        end_date: present
+        highlights:
+          - 'Established a comprehensive support strategy for our platform, focusing on immediate incident response and long-term solutions to ensure system uptime and reliability.'
+          - 'Fostered a collaborative relationship between product support and engineering teams, streamlining communication and incident resolution processes, and contributing to a blameless culture around post-mortems.'
+
+        location: Remote
+      - company: 'Engineering Manager: Logistics'
+        position: DispatchHealth
+        start_date: 2022-02
+        end_date: present
+        highlights:
+          - Delivered patented core business value generating logistics system to optimize the matching of supply and demand based on health critical constraints and provider efficiency replacing manual optimizer department of 30+ and allowing business to scale across more markets.
+          - Managed a distributed team of 20+ cross-functional multidisciplinary ICs responsible for delivering real-time schedule optimizer for at-home healthcare in 50+ cities in 25+ states replacing 20 manual optimizers.
+        location: Remote
+      - company: 'Engineering Manager: Clinical Risk Stratification'
+        position: DispatchHealth
+        start_date: 2023-08
+        end_date: 2023-11
+        highlights:
+          - Partnered with clinical leadership to increase patient acceptance rate by 10% with no decrease in patient safety by incorporating Python ML models to assess risk and right-size care delivery.
+          - Lowered patient intake handle time by over 10% by switching to a symptom collection methodology which resulted in more discrete data points with less training.
+        location: Remote
+      - company: 'Engineering Manager: Partners'
+        position: DispatchHealth
+        start_date: 2021-10
+        end_date: 2023-02
+        highlights:
+          - Grew new top of funnel channel to represent over 10% of total business volume in less than 2 years.
+          - Expanded team from 4 to 12 engineers with mix of FTE, near shore and off shore talent which grew to support over 2000 new partners.
+          - Created FHIR compatible EHR integration solution enabling requests from strategic partners EHRs to minimize onboarding friction.
+          - Led team through rewrite of population health processing system which attributed over \$125M in medical cost savings for partners.
+        location: Remote
+      - company: 'Team Lead: Partners'
+        position: DispatchHealth
+        start_date: 2021-05
+        end_date: 2021-10
+        highlights:
+          - Delivered customer-facing full stack React SPA with Rails API partner portal for requesting and managing the lifecycle of care delivery including all digital touch points from onboarding through support.
+          - Lead team from feature discovery through delivery with agile methodologies.
+        location: Remote
+      - company: Senior Front End Engineer
+        position: DispatchHealth
+        start_date: 2020-05
+        end_date: 2021-05
+        highlights:
+          - Completed and launched offshored SaaS product for external partners to create and manage the lifecycle for requests for health services in the home.
+        location: Remote
+      - company: Senior Front End Engineer
+        position: ConsenSys
+        start_date: 2019-01
+        end_date: 2020-04
+        highlights:
+          - Developed and maintained open source React library with 2k+ monthly downloads.
+          - Wrote and maintained technical documentation site with 4k+ monthly visits.
+          - Built web3 React components and demos for user experience research.
+        location: Remote
+      - company: Front End Architect
+        position: Flourish Systems, LLC
+        start_date: 2016-11
+        end_date: 2020-01
+        highlights:
+          - Developed and maintained AngularJS app for admin and end-users to configure, monitor, and control scaled commercial agriculture hardware product.
+          - Integrated Rails API via websockets with CI/CD via GitHub and Heroku.
+        location: Denver, CO
+      - company: Technical Project Manager
+        position: Influence Technologies
+        start_date: 2016-06
+        end_date: 2018-10
+        highlights:
+          - Lead process, internal teams, and client interaction from requirements gathering to design, development to maintenance of multi-year projects.
+          - Released open source js library (ivx.js) with team of developers and designers to reduce implementation time of interactive video marketing products.
+        location: Denver, CO
+      - company: Project Developer
+        position: Big Container Media
+        start_date: 2011-02
+        end_date: 2012-06
+        highlights:
+          - Bespoke web development agency focused on small business solutions.
+        location: Denver, CO
+    community_and_speaking:
+      - name: DevCon Osaka (2020)
+        details: State of the dApp - The state of web3 user interactions.
+      - name: Refresh Denver (2014 – 2020)
+        details: Grew local technology and design-focused meetup from 400 to over 4,000 members as an organizer and speaker.
+      - name: Coder Dojo (2014 - 2019)
+        details: Teach youth basic web development using international curriculum.
+    education:
+      - institution: Purdue University, West Lafayette
+        area: Computer and Information Technology
+        degree: BS
+design:
+  theme: classic
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_page_numbering: true
+  show_last_updated_date: false
+  header_font_size: 30 pt
+  text_alignment: justified
+  margins:
+    page:
+      top: 1.25 cm
+      bottom: 1.25 cm
+      left: 1.25 cm
+      right: 1.25 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
